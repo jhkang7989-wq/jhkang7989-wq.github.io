@@ -5,4 +5,11 @@
     "package_name": "io.github.jhkang7989_wq.twa",
     "sha256_cert_fingerprints": ["92:F6:88:3A:BC:30:E6:3C:B7:60:F5:B8:7F:58:D7:0B:0C:38:E7:87:CD:50:82:6E:FF:12:6F:59:35:A3:24:70"]
   }
+}, {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.jhkang7989_wq.drivelogpro",
+    "sha256_cert_fingerprints": ["39:2F:EC:47:97:5A:2A:FE:EC:D9:7E:4D:94:B9:CF:B7:6F:E2:B4:13:4A:0C:3A:6A:84:1C:DD:2D:67:5B:3D:E2"]
+  }
 }]
