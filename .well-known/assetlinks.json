@@ -12,4 +12,11 @@
     "package_name": "io.github.jhkang7989_wq.drivelogpro",
     "sha256_cert_fingerprints": ["39:2F:EC:47:97:5A:2A:FE:EC:D9:7E:4D:94:B9:CF:B7:6F:E2:B4:13:4A:0C:3A:6A:84:1C:DD:2D:67:5B:3D:E2"]
   }
+}, {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.jihoon.salesdiary",
+    "sha256_cert_fingerprints": ["6B:F6:01:F7:AA:69:74:8A:F1:33:5C:F8:85:58:AE:03:4E:F7:9B:2E:1D:D3:34:F1:B3:DA:B3:04:40:24:47:03"]
+  }
 }]
